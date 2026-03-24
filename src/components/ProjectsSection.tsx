@@ -16,16 +16,15 @@ const projects = [
     github: 'https://github.com/yaminipatil12345',
   },
   {
-    title: 'CityCare – Citizen Complaint Mobile App',
+    title: 'CityCare – Citizen Complaint Website',
     role: 'Frontend Developer',
-    timeline: 'Aug 2025 – Sep 2025',
+    timeline: 'July 2025 – October 2025',
     description: [
-      'Developed the mobile app interface using React Native (Android & iOS) for citizens to report and track local issues like garbage or road damage.',
-      'Collaborated with the backend (Django REST Framework) for secure API communication and data handling.',
-      'Integrated SQLite for local data storage and automated email notifications for real-time status updates.',
-      'Delivered a responsive, intuitive user interface, streamlining issue reporting and enhancing citizen engagement.',
+      'Developed a full-stack web application for reporting and tracking civic issues such as garbage and road damage.',
+      'The platform provides a responsive and user-friendly interface for users to submit complaints and monitor their status efficiently.',
+      'Ensures smooth interaction and seamless communication with backend services for effective issue management.',
     ],
-    technologies: ['React Native', 'Python', 'Django REST Framework', 'SQLite'],
+    technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Express.js', 'MongoDB'],
     github: 'https://github.com/yaminipatil12345',
   },
 ];
