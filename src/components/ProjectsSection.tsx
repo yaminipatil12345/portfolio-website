@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Wanderlust – Travel Listing Platform',
     role: 'Full-Stack Developer',
-    timeline: 'Mar 2025 – Apr 2025',
+    timeline: 'April 2025 – June 2025 ',
     description: [
       'Built a full-stack travel web application with secure user login, listing creation, and review functionality.',
       'Implemented CRUD operations and authentication, delivering a smooth and responsive user experience.',
